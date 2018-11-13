@@ -1,0 +1,16 @@
+{
+  "transaction": {
+    "action": "sale",
+    "account_holder_name": "SDK Test",
+    "account_number": "5454545454545454",
+    "account_type": "mc",
+    "payment_method": "cc",
+    "cvv": "123",
+    "exp_date": "1221",
+    "transaction_amount": "1.00",
+    "location_id": "@locationID",
+    "contact_id": "@contactID",
+    "product_transaction_id": "@productTransID",
+    "order_num": "SDk Test 123456"
+  }
+}
